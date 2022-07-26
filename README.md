@@ -2,7 +2,8 @@
 Openai proposes [a simple evolutionary strategy](https://openai.com/blog/evolution-strategies/) based on natural gradients 
 
 # Installation
->go get github.com/rebooe/nes
+>go get -u github.com/rebooe/nes  
+>go version >= 1.18
 
 # Usage
     package main
